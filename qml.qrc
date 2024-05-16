@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FaceVerifity_qml.qml</file>
+    </qresource>
+</RCC>
